@@ -1,10 +1,10 @@
-﻿{"storeHouse":[
+{"storeHouse":[
 
-{"sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/vpntemp11/tv/main/local.json","sourceName":"本地收集"},
-{"sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/vpntemp11/tv/main/x.json","sourceName":"在线收集x"},
-{"sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/vpntemp11/tv/main/agit.json","sourceName":"在线收集agit"},
-{"sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/vpntemp11/tv/main/github.json","sourceName":"在线收集github"},
-{"sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/vpntemp11/tv/main/0.json","sourceName":"在线收集0"},
+{"sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/softup1/tv/main/local.json","sourceName":"本地收集"},
+{"sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/softup1/tv/main/x.json","sourceName":"在线收集x"},
+{"sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/softup1/tv/main/agit.json","sourceName":"在线收集agit"},
+{"sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/softup1/tv/main/github.json","sourceName":"在线收集github"},
+{"sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/softup1/tv/main/0.json","sourceName":"在线收集0"},
 {"sourceUrl":"https://agit.ai/gk0746/pxy/raw/branch/master/2%e4%bb%93.json","sourceName":"备用网络仓"},
 {"sourceUrl":"https://agit.ai/gk0746/pxy/raw/branch/master/%e8%8b%b1%e9%9b%84.json","sourceName":"英雄仓"},
 {"sourceUrl":"https://agit.ai/gk0746/pxy/raw/branch/master/1%e4%bb%93.json","sourceName":"主力仓"},
