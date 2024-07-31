@@ -1,6 +1,6 @@
 {"storeHouse":[
-{"sourceName": "18ck","sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixiao/TVBoxSource/main/cangkulist/自用单仓.json"},
-{"sourceName": "18ck","sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixiao/TVBoxSource/main/cangkulist/自用直播仓库.json"},
+{"sourceName": "自用单仓","sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixiao/TVBoxSource/main/cangkulist/自用单仓.json"},
+{"sourceName": "自用直播仓库","sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixiao/TVBoxSource/main/cangkulist/自用直播仓库.json"},
 {"sourceName": "18ck","sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/18ck.json"},
 {"sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/softup1/tv/main/local.json","sourceName":"本地收集"},
 {"sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/softup1/tv/main/online2.json","sourceName":"在线收集"},
