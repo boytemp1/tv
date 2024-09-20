@@ -1,7 +1,4 @@
 {"storeHouse":[
-    {"sourceName": "felixiao自用","sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixiao/TVBoxSource/main/cangkulist/自用单仓.json"},
-    {"sourceName": "felixiao直播","sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixiao/TVBoxSource/main/cangkulist/自用直播仓库.json"},
-    {"sourceName": "18ck","sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/18ck.json"},
     {"sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/boytemp1/tv/main/ben.json","sourceName":"本地收集"},
     {"sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/boytemp1/tv/main/dan.json","sourceName":"在线收集"},
     {"sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/boytemp1/tv/main/x.json","sourceName":"在线收集x"},
@@ -9,7 +6,15 @@
     {"sourceUrl":"http://lin.ohphp.com/1/my.json","sourceName":"宇静鸣"},
     {"sourceUrl":"http://lin.ohphp.com/2/tvkj.json","sourceName":"豆豆"},
     {"sourceUrl":"https://youdu.fan/DC.txt","sourceName":"DC"},
+    {"sourceName":"摸鱼儿","sourceUrl":"http://我不是.摸鱼儿.top"},
+    {"sourceName":"饭太硬","sourceUrl":"http://www.饭太硬.com/tv"},
+    {"sourceName":"肥猫","sourceUrl":"http://www.肥猫.com/"},
+    {"sourceName": "felixiao自用","sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixiao/TVBoxSource/main/cangkulist/自用单仓.json"},
+    {"sourceName": "felixiao直播","sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixiao/TVBoxSource/main/cangkulist/自用直播仓库.json"},
+    {"sourceName": "18ck","sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/18ck.json"},
     {"sourceName":"放学回家单仓","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/CTTBOX/main/dcpro608.json" },
-    {"sourceName":"业余奇奇单仓","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json"},
-    {"sourceName":"业余日后单仓","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yyfxz/yyrh/main/fxz.json"}
+    {"sourceName":"业余奇奇单仓","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/boytemp1/yyfxz.qqtv/main/qq.json"},
+    {"sourceName":"业余日后单仓","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yyfxz/yyrh/main/fxz.json"},
+    {"sourceName":"偷偷/影视","sourceUrl":"http://yoyo188.dynv6.net/jk1/yoyo2.json"},
+    {"sourceName":"星芽短剧","sourceUrl":"http://yoyo168.dynv6.net/zx/FongMi.json"}
 ]}
