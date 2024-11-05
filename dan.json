@@ -10,6 +10,11 @@
 {"url":"https://szyyds.cn/tv/x.json","name":"小马影视"},
 {"url":"http://tv.饭小米.top/","name":"饭小米"},
 {"url":"https://www.fish2018.us.kg/p/jsm.json","name":"PG在线"},
+{"url":"https://tvbox.中国/","name":"tvbox.中国"},
+{"url":"https://fm.t4tv.hz.cz/json/config.json","name":"fongmi"},
+{"url":"https://tvbox.lniosy.com/","name":"莱诺希"},
+{"url":"https://tvbox.cainisi.cf","name":"菜妮丝"},
+{"url":"https://weixine.net/ysc.json","name":"运输车"},
 {"url":"https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json","name":"jsm豆瓣"},
 {"url":"https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-VI.json","name":"doki-VI"},
 {"url":"http://cdn.qiaoji8.com/tvbox.json","name":"南瓜"},
@@ -95,6 +100,4 @@
 {"url":"https://dxawi.github.io/0/0.json","name":"📱网络搜集①多条线路"},
 {"url":"https://www.gitlink.org.cn/api/leevi0321/cool/raw/duo.json?ref=main","name":"应用边界"},
 {"url":"https://ygyzy.github.io/api/box/box.json","name":"线路86"}
-
 ]}
-
