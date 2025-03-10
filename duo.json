@@ -1,17 +1,12 @@
 {"storeHouse":[
-    {"sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/boytemp1/tv/refs/heads/main/dan.json","sourceName":"在线收集"},
-    {"sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/boytemp1/tv/refs/heads/main/ben.json","sourceName":"本地收集"},
-    {"sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/boytemp1/tv/refs/heads/main/x.json","sourceName":"在线收集x"},
-    {"sourceName":"一木多仓推荐","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/refs/heads/main/TVBox/一木多线路.json"},
-    {"sourceName":"felixiao自用","sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixiao/TVBoxSource/refs/heads/main/cangkulist/自用单仓.json"},
-    {"sourceName":"felixiao直播","sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixiao/TVBoxSource/refs/heads/main/cangkulist/自用直播仓库.json"},
-    {"sourceName":"18ck","sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixiao/TVBoxSource/refs/heads/main/18/18ck.json"},
-    {"sourceName":"放学回家单仓","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/CTTBOX/refs/heads/main/dcpro608.json" },
-    {"sourceName":"业余奇奇单仓","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/boytemp1/yyfxz.qqtv/refs/heads/main/qq.json"},
-    {"sourceName":"业余日后单仓","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yyfxz/yyrh/refs/heads/main/fxz.json"},
-    {"sourceName":"接口即将失效","sourceUrl":"http://itvbox.cc/可视TV/云星日记/仓库/api.json"},
-    {"sourceName":"关注公众号：云星日记","sourceUrl":"http://itvbox.cc/可视TV/云星日记/仓库/本地.json"},
-    {"sourceName":"回复关键词：接口","sourceUrl":"http://itvbox.cc/可视TV/云星日记/仓库/本地.json"},
-    {"sourceName":"免费获取新接口","sourceUrl":"http://itvbox.cc/可视TV/云星日记/仓库/本地.json"},
-    {"sourceUrl":"http://39.101.135.137:8686","sourceName":"浪里小白龙"}
+    {"sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/boytemp1/tv/refs/heads/main/dan.json","sourceName":"在线收集"},
+    {"sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/boytemp1/tv/refs/heads/main/ben.json","sourceName":"本地收集"},
+    {"sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/boytemp1/tv/refs/heads/main/x.json","sourceName":"在线收集x"},
+    {"sourceName":"一木多仓推荐","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/refs/heads/main/TVBox/一木多线路.json"},
+    {"sourceName":"felixiao自用","sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/felixiao/TVBoxSource/refs/heads/main/cangkulist/自用单仓.json"},
+    {"sourceName":"felixiao直播","sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/felixiao/TVBoxSource/refs/heads/main/cangkulist/自用直播仓库.json"},
+    {"sourceName":"18ck","sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/felixiao/TVBoxSource/refs/heads/main/18/18ck.json"},
+    {"sourceName":"分享者回家单仓","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/jigedos/CTTBOX/refs/heads/main/dcpro608.json" },
+    {"sourceName":"分享者奇奇单仓","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/boytemp1/yyfxz.qqtv/refs/heads/main/qq.json"},
+    {"sourceName":"分享者日后单仓","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/yyfxz/yyrh/refs/heads/main/fxz.json"}
 ]}
