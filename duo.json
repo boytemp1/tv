@@ -10,6 +10,8 @@
     {"sourceName":"精选仓","sourceUrl":"https://qixing.myhkw.com/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.txt"},
     {"sourceName":"七星","sourceUrl":"https://3043.kstore.space/bhvip/bh/box.json"},
     {"sourceName":"备用","sourceUrl":"https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json"},
+    {"sourceName":"天微","sourceUrl":"https://qixing.myhkw.com/DC.txt"},
+    {"sourceName":"挺好分享","sourceUrl":"http://ztha.top/TVBox/FLCK.json"},
     {"sourceName":"一木多仓推荐","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/refs/heads/main/TVBox/一木多线路.json"},
     {"sourceName":"felixiao自用","sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/felixiao/TVBoxSource/refs/heads/main/cangkulist/自用单仓.json"},
     {"sourceName":"felixiao直播","sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/felixiao/TVBoxSource/refs/heads/main/cangkulist/自用直播仓库.json"},
@@ -17,4 +19,4 @@
     {"sourceName":"分享者回家单仓","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/jigedos/CTTBOX/refs/heads/main/dcpro608.json" },
     {"sourceName":"分享者奇奇单仓","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/boytemp1/yyfxz.qqtv/refs/heads/main/qq.json"},
     {"sourceName":"分享者日后单仓","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/yyfxz/yyrh/refs/heads/main/fxz.json"}
-]}
+    ]}
